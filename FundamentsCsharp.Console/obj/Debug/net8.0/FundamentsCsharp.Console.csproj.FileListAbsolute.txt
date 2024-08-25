@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\bin\Debug\net8.0\FundamentsCsharp.Console.exe
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\bin\Debug\net8.0\FundamentsCsharp.Console.deps.json
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\bin\Debug\net8.0\FundamentsCsharp.Console.runtimeconfig.json
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\bin\Debug\net8.0\FundamentsCsharp.Console.dll
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\bin\Debug\net8.0\FundamentsCsharp.Console.pdb
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\obj\Debug\net8.0\FundamentsCsharp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\obj\Debug\net8.0\FundamentsCsharp.Console.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\obj\Debug\net8.0\FundamentsCsharp.Console.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\obj\Debug\net8.0\FundamentsCsharp.Console.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\obj\Debug\net8.0\FundamentsCsharp.Console.dll
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\obj\Debug\net8.0\refint\FundamentsCsharp.Console.dll
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\obj\Debug\net8.0\FundamentsCsharp.Console.pdb
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\obj\Debug\net8.0\FundamentsCsharp.Console.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\FundamentsCsharp.Console\FundamentsCsharp.Console\obj\Debug\net8.0\ref\FundamentsCsharp.Console.dll
